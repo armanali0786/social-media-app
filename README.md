@@ -1,6 +1,6 @@
 
 #  Social Media Clone App  (Register->Login->Start Using App)
-#  Live Web Link :- https://65e2fcf2a44d6d9efb845159--rad-horse-7acb99.netlify.app/
+#  Live Web Link :- https://65e307f95c008ca7cc3ec54c--rad-horse-7acb99.netlify.app/
 
 
 A social media clone project Instagram incorporates essential features for users to share photos and connect with others.
