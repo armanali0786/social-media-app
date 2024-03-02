@@ -1,5 +1,5 @@
 
-#  Social Media Clone App 
+#  Social Media Clone App  (Register->Login->Start Using App)
 #  Live Web Link :- https://65e2fcf2a44d6d9efb845159--rad-horse-7acb99.netlify.app/
 
 
