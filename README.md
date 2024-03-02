@@ -56,6 +56,14 @@ A social media clone project Instagram incorporates essential features for users
 ![App Screenshot](https://github.com/armanali0786/social-media-app/assets/76746226/f09983c4-aa40-423d-8b6d-b1289671ff9b)
 
 
+## Video Streaming 
+
+
+
+https://github.com/armanali0786/social-media-app/assets/76746226/a426b121-789b-4bcb-86e7-25ea752728d0
+
+
+
 ## 🚀 About Me
 
 - 🎓 I am recently completed my **Bachelor's in Information Technology**.
