@@ -2,8 +2,8 @@
 #  Social Media Clone App 
 #  Live Web Link :-  https://rad-horse-7acb99.netlify.app/
 
-  { U can use my gmail For SocialMediaApp Only : arman@gmail.com Password: 12345 } For Better Experience 
-  Otherwise :-  (Register->Login->Start Using App) 
+## ( Open Link Click Login Once ) 
+
 
 A social media clone project Instagram incorporates essential features for users to share photos and connect with others.
 
