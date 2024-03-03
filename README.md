@@ -1,8 +1,8 @@
 
-#  Social Media Clone App 
-#  Live Web Link :-  https://rad-horse-7acb99.netlify.app/
+#  Social Media Clone App 👇
+#  Live Web Link :- 👉  https://rad-horse-7acb99.netlify.app/ 
 
-## ( Open Link Click Login Once ) 
+## 📌 ( Click Login Button Once ) then You will redirect on Main Page  
 
 
 A social media clone project Instagram incorporates essential features for users to share photos and connect with others.
