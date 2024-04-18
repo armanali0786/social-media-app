@@ -1,6 +1,6 @@
 
 #  Social Media Clone App 👇 (Reactjs, Nodejs, MongoDB)
-#  Live Web Link :- 👉  https://rad-horse-7acb99.netlify.app/ 
+#  Live Web Link :- 👉 https://social-media-scratch.netlify.app 
 
 ## 📌 ( Click Login Button Once ) then You will redirect on Main Page  
 
