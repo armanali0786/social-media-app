@@ -2,7 +2,7 @@
 #  Social Media Clone App 👇 (Reactjs, Nodejs, MongoDB)
 #  Live Web Link :- 👉 https://social-media-scratch.netlify.app 
 
-## 📌 ( Click Login Button Once ) then You will redirect on Main Page  
+## 📌 ( Enter Default Gmail and Password from (Plcaeholder) Click Login Button Once ) then You will redirect on Main Page  
 
 
 A social media clone project Instagram incorporates essential features for users to share photos and connect with others.
